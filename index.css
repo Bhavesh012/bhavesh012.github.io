@@ -80,8 +80,8 @@ body {
 }
 
 .emoji {
-  width: 18px;
-  height: 18px;
+  width: 20px;
+  height: 20px;
 }
 
 #profile_img_blog {
@@ -240,16 +240,16 @@ body {
 }
 
 #username {
-  font-size: 18px;
+  font-size: 22px;
   font-weight: normal;
 }
 
 #username span {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 #userbio {
-  font-size: 26px;
+  font-size: 18px;
   font-family: "Questrial", sans-serif;
   width: 100%;
 }

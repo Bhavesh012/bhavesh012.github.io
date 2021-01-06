@@ -1,9 +1,5 @@
-#@import url("https://fonts.googleapis.com/css?family=Poppins");
-#@import url("https://fonts.googleapis.com/css?family=Questrial");
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap'); #"font-family: 'Source Sans Pro', sans-serif;"
-#@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap'); #"font-family: 'Source Sans Pro', sans-serif;"
 @import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro&display=swap'); #"font-family: 'Source Serif Pro', serif;"
-$@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@300&display=swap'); #"font-family: 'Source Serif Pro', serif;"
 
 body {
   margin: 0%;
@@ -80,7 +76,7 @@ body {
   font-size: 50px;
   color: var(--text-color);
   font-weight: normal;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 .emoji {
@@ -105,7 +101,7 @@ body {
 
 #username_blog span {
   font-size: 24px;
-  font-family: 'Source Serif Pro', serif !important;
+  font-family: 'Source Sans Pro', sans-serif !important;
 }
 
 #username_blog b {
@@ -154,7 +150,7 @@ body {
   font-size: 50px;
   color: var(--text-color);
   font-weight: normal;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #blog-display h2 {
@@ -163,7 +159,7 @@ body {
 
 #blog-display {
   padding: 1vh 0px;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #blog p {
@@ -222,7 +218,7 @@ body {
 #footer a {
   color: var(--text-color) !important;
   text-decoration: none;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   font-weight: normal;
 }
 
@@ -254,13 +250,13 @@ body {
 
 #userbio {
   font-size: 26px;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   width: 100%;
 }
 
 #about {
   font-size: 18px;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 
 #about a,
@@ -337,7 +333,7 @@ body {
 
 .about_section {
   font-size: 18px;
-  font-family: 'Source Serif Pro', serif;
+  font-family: 'Source Sans Pro', sans-serif;
   margin: 2vh 0px;
   font-weight: normal;
   word-wrap: break-word;

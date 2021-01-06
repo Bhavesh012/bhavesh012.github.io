@@ -75,7 +75,7 @@ body {
 #display h1 {
   font-size: 50px;
   color: var(--text-color);
-  font-weight: bold;
+  font-weight: normal;
   font-family: "Questrial", sans-serif;
 }
 
@@ -96,7 +96,7 @@ body {
   font-size: 18px;
   color: var(--text-color);
   font-family: "Poppins", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #username_blog span {
@@ -107,7 +107,7 @@ body {
 #username_blog b {
   font-size: 12px;
   font-family: "Poppins", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #blog-display {
@@ -149,7 +149,7 @@ body {
 #blog-display h1 {
   font-size: 50px;
   color: var(--text-color);
-  font-weight: bold;
+  font-weight: normal;
   font-family: "Questrial", sans-serif;
 }
 
@@ -193,7 +193,7 @@ body {
   color: var(--text-color);
   text-decoration: none;
   margin-left: 4vw;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #footer_blog {
@@ -206,7 +206,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #footer {
@@ -219,7 +219,7 @@ body {
   color: var(--text-color) !important;
   text-decoration: none;
   font-family: "Questrial", sans-serif;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #profile_img {
@@ -235,13 +235,13 @@ body {
 }
 
 #profile div {
-  font-weight: bold;
+  font-weight: normal;
   margin: 1.5vh 0px;
 }
 
 #username {
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #username span {
@@ -263,7 +263,7 @@ body {
 #username a {
   color: #fff !important;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #about a:hover,
@@ -325,7 +325,7 @@ body {
 
 .section_title {
   font-size: 24px;
-  font-weight: bold;
+  font-weight: normal;
   margin: 1vh 0px;
   padding: 0px 1px;
   word-wrap: break-word;
@@ -335,7 +335,7 @@ body {
   font-size: 18px;
   font-family: "Questrial", sans-serif;
   margin: 2vh 0px;
-  font-weight: bold;
+  font-weight: normal;
   word-wrap: break-word;
 }
 
@@ -347,7 +347,7 @@ body {
 
 .bottom_section span {
   margin-right: 20px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .bottom_section span i {

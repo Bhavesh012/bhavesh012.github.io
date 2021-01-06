@@ -235,13 +235,13 @@ body {
 }
 
 #profile div {
-  font-weight: bold;
+  font-weight: normal;
   margin: 1.5vh 0px;
 }
 
 #username {
   font-size: 18px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #username span {
@@ -263,7 +263,7 @@ body {
 #username a {
   color: #fff !important;
   text-decoration: none;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 #about a:hover,
@@ -335,7 +335,7 @@ body {
   font-size: 18px;
   font-family: "Questrial", sans-serif;
   margin: 2vh 0px;
-  font-weight: bold;
+  font-weight: normal;
   word-wrap: break-word;
 }
 
@@ -347,7 +347,7 @@ body {
 
 .bottom_section span {
   margin-right: 20px;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .bottom_section span i {

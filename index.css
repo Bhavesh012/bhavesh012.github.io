@@ -268,9 +268,7 @@ body {
 
 #about a:hover,
 #username a:hover {
-  color: #fff !important;
-  text-decoration: underline;
-  font-weight: normal;
+  text-decoration: underline
 }
 
 #about span {
